@@ -31,11 +31,20 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyasinghal23&show_icons=true&locale=en&layout=compact" alt="ananyasinghal23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyasinghal23&show_icons=true&locale=en" alt="ananyasinghal23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyasinghal23&" alt="ananyasinghal23" /></p>
+-->
+## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=ananyasinghal23&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ananyasinghal23&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasinghal23&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
 **AnanyaSinghal23/AnanyaSinghal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
